@@ -1,6 +1,6 @@
 # QuineMcCluskey-Method
 
-Python is used here to implement the Quine McCluskey method.
+Python is used in both the programs to implement the Quine McCluskey method.
 
 + **QM_Name:** Quine McCluskey method for 4 variables(A,B,C,D)
   - The user is prompted to enter their name.
@@ -12,3 +12,4 @@ Python is used here to implement the Quine McCluskey method.
   - The user is prompted to enter the min terms(0 to 63).
   - Quine-McCluskey method is used to find the minimized Sum of Products (SOP) expression from the unique minterms.
 
+**NOTE:** 'don't cares' cannot be used in both the programs.
