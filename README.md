@@ -5,7 +5,7 @@ Python is used in both the programs to implement the Quine McCluskey method.
 + **QM_Name:** Quine McCluskey method for 4 variables(A,B,C,D)
   - The user is prompted to enter their name.
   - The name is converted into its ASCII representation.
-  - Unique ASCII values are stored as 'min_terms' and are sorted.
+  - Each unique digit of the ASCII code is considered as 'min_term'.
   - Quine-McCluskey method is used to find the minimized Sum of Products (SOP) expression from the unique minterms.
 
 + **QM_Minterms:** Quine McCluskey method for 6 variables(A,B,C,D,E,F)
